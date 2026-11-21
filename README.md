@@ -15,3 +15,8 @@ All credit for the problems, examples and methods goes to **Julian J. Faraway**,
 You can only give away your own work. The book's text and exercise wording still belong to the author and the publisher. The datasets aren't stored in this repo: the scripts load them from the [`faraway`](https://cran.r-project.org/package=faraway) R package, which has its own licence, as do the other packages the scripts use.
 
 See [LICENSE](LICENSE) for the full terms.
+
+---
+
+**Samyabrata Roy**\
+M.Sc. Statistics student (Semester I), University of Calcutta
