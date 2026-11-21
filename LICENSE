@@ -1,0 +1,49 @@
+NO COPYRIGHT CLAIMED - PUBLIC DOMAIN DEDICATION (CC0 1.0 UNIVERSAL)
+=====================================================================
+
+The contributors to this repository claim no copyright in it.
+
+To the extent possible under law, the contributors have waived all copyright
+and related or neighbouring rights to the R code, solutions and comments they
+wrote for this repository, and dedicate them to the public domain worldwide.
+Anyone may copy, modify, distribute and use them, including for commercial
+purposes, without asking permission and without giving credit.
+
+Full text of the dedication:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+
+ACKNOWLEDGEMENT
+---------------
+
+The practical assignments solved on this branch were set for the course
+
+    STS414, Linear Models and Regression Analysis,
+    taught by Prof. Bhaswati Ganguli,
+    Master of Science (M.Sc.) in Statistics,
+    Taraknath Palit Siksha Prangan (Ballygunge Science College),
+    University of Calcutta.
+
+All credit for the problems belongs to the instructor and the course. This
+branch is only a personal set of solutions written while taking the course. It
+is not endorsed by the instructor, the department or the university.
+
+
+WHAT THE DEDICATION DOES NOT COVER
+----------------------------------
+
+- The assignment questions and other course material remain with the
+  instructor and the University of Calcutta. Any question text in the comments
+  of these scripts is included only to identify the problem being solved.
+
+- Datasets handed out with the assignments, or loaded from R packages, remain
+  under their own terms.
+
+- R packages used by the scripts remain under their own licences.
+
+
+NO WARRANTY
+-----------
+
+The code and solutions are provided "as is", without warranty of any kind,
+express or implied. They may contain mistakes.
