@@ -16,6 +16,12 @@ You can only give away your own work. The book's text and exercise wording still
 
 See [LICENSE](LICENSE) for the full terms.
 
+## LLM usage declaration
+
+The solution scripts and their comments were drafted with large language models, **ChatGPT (OpenAI)** and **Claude (Anthropic)**. I ran, checked and corrected every script, and I take responsibility for the results, including any mistakes.
+
+Claude, through Claude Code, was also used to set up this repository and to write this README and the LICENSE.
+
 ---
 
 **Samyabrata Roy**\
